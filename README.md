@@ -69,7 +69,7 @@ Now, goto VSCode menu, select Run/Run Without Debugging and voila you should see
 
 ## Step2: Give the repository name and make it public/ private.
 
- <img src="2G.png">
+ <img src="2G.PNG">
  
  <br>
  
